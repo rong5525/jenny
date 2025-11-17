@@ -1,0 +1,5 @@
+site_name: My Simple Website
+nav:
+  - Home: index.md
+theme:
+  name: material
